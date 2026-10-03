@@ -1,7 +1,5 @@
 package com.cutiadb;
 
-import com.cutiadb.core.DataStore;
-import com.cutiadb.core.models.Entry;
 import com.cutiadb.server.Config;
 import com.cutiadb.server.Server;
 

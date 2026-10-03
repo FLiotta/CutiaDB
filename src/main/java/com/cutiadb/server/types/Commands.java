@@ -4,5 +4,9 @@ public enum Commands {
     EXIT,
     SET,
     DEL,
-    GET
+    GET,
+    KEYS,
+    RENAME,
+    TTL,
+    EXPIRE
 }
